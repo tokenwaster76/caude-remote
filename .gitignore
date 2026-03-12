@@ -226,4 +226,7 @@ v1/src/sensing/mac_wifi
 #  exclude from AI features like autocomplete and code analysis. Recommended for sensitive data
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
-.cursorindexingignoresystem-prompts-and-models-of-ai-tools/
+.cursorindexingignore
+
+# Cloned external repos
+system-prompts-and-models-of-ai-tools/
